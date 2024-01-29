@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+
+}
+
+/* NAVAR */
+nav {
+    height: 99px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 57px;
+    vertical-align: middle;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+.icono {
+    width: 44px;
+    height: 44px;
+}
+
+.oscuro {
+    background-color: #000f08;
+}
+
+section,
+header {
+    /* margin: 0 418px; */
+    margin: 0 21.7%;
+
+}
+
+
+/* HEADER */
+
+header h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 2.8rem;
+    font-weight: bold;
+
+    margin-top: 97px;
+    margin-bottom: 73px;
+}
+
+header img {
+    width: 100%;
+    align-content: center;
+}
+
+section {
+    margin-top: 73px;
+    margin-bottom: 120px;
+}
+
+article {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 1.56rem;
+    text-align: left;
+
+}
+
+
+article p {
+    padding-bottom: 34px;
+}
+
+section h2 {
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align: left;
+    padding-top: 15px;
+    margin-bottom: 48px;
+}
+
+
+
+
+/* Footer */
+
+footer {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000f08;
+    color: white;
+    padding: 20px;
+}
+
+i {
+    font-size: 30px;
+    color: white;
+}
